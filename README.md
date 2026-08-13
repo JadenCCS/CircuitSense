@@ -6,7 +6,7 @@ Real-Time Standalone PC Hardware Monitoring Platform
 
 
 
-Group: Queue5 — CEN 5035-001 / CEN 4010-002
+Group: Queue5
 
 
 
